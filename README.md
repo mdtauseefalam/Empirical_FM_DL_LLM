@@ -6,16 +6,18 @@ Will add steps for Data Annotations.
 Whole Dataset.
 Methodological video.
 Add Taxonomy figure.
-Experimental results of formal Method Tools.
+### Taxonomy figure can be found with the name "Taxonomy_Final.png"
 
-The detailed things are present at below external link due to constraint of space at: 
+## DATASETS
+
+The detailed information about dataset is available at the following external link due to space constraints:
 
 https://cciitpatna-my.sharepoint.com/:f:/g/personal/halder_iitp_ac_in/IgDmV7HZqkSdTLNL9VEt6UQpAdMEKjZVTEYUTgKpxcoK6S0?e=rP0Chz
 
-The structure within all folders are consistent and organized into two subfolders:
+The structure within all folders are consistent and organized into three subfolders:
 
 1. **SolidityFiles_Data** – Contains the Solidity smart contract source files.
-2. **FM_Tools_result** - Contains the individual tools report on the respective dataset.
+2. **FM_Tools_result** - Contains the experimental results of individual tools on the respective dataset.
 
 3. **Labelling** – Contains two CSV files:
 
@@ -24,5 +26,8 @@ The structure within all folders are consistent and organized into two subfolder
         ii) revised_....csv: Contains tool-specific labelling results, showing which tools detected which vulnerabilities.
 
 
+## Baselines Video
 
-Will do the remaining part soon. 
+We 
+
+Will do the remaining part if any upon acceptance of the paper. 
