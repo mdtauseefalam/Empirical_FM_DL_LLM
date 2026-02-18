@@ -7,7 +7,7 @@ Will add steps for Data Annotations.
 
 ### Taxonomy figure can be found with the name "Taxonomy_Final.png"
 
-### The baseline results obtained for different datasets are shared in the folder "DL_Baseline_Outputs"
+### The baseline results obtained for different deep learning baselines over different datasets are shared in the folder "DL_Baseline_Outputs"
 
 ## DATASETS
 
