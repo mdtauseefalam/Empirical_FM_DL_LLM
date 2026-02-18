@@ -2,12 +2,12 @@
 We empirically compare formal methods, deep learning, and LLMs on public benchmarks, analyze accuracy, efficiency, and scalability, and derive actionable insights for hybrid vulnerability detection frameworks.
 
 
-Will add steps for Data Annotations.
+### The detailed process of corpus development is described in "CorpusDevelopment.pdf".
 
 
-### Taxonomy figure can be found with the name "Taxonomy_Final.png"
+### Taxonomy figure can be found with the name "Taxonomy_Final.png".
 
-### The baseline results obtained for different deep learning baselines over different datasets are shared in the folder "DL_Baseline_Outputs"
+### The baseline results obtained for different deep learning baselines over different datasets are shared in the folder "DL_Baseline_Outputs".
 
 ## DATASETS
 
