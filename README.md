@@ -18,9 +18,9 @@ The structure within all folders are consistent and organized into two subfolder
 
 2. **Labelling** – Contains two CSV files:
 
-        i) _labelled_....csv_: Provides the final labels for each contract address, indicating the presence (1) or absence (0) of specific vulnerabilities.
+        i) labelled_....csv: Provides the final labels for each contract address, indicating the presence (1) or absence (0) of specific vulnerabilities.
 
-        ii) _revised_....csv_: Contains tool-specific labelling results, showing which tools detected which vulnerabilities.
+        ii) revised_....csv: Contains tool-specific labelling results, showing which tools detected which vulnerabilities.
 
 
 
