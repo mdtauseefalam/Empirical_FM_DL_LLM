@@ -9,6 +9,8 @@ We empirically compare formal methods, deep learning, and LLMs on public benchma
 
 ### The baseline results obtained for different deep learning baselines over different datasets are shared in the folder "DL_Baseline_Outputs".
 
+### The "Prompts" folder contains different prompts used for inferencing results from LLMs. 
+
 ## DATASETS
 
 The detailed information about dataset is available at the following external link due to space constraints:
