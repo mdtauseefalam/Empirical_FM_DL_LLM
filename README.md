@@ -28,6 +28,13 @@ The structure within all folders are consistent and organized into three subfold
 
 ## Baselines Video
 
-We 
+To evaluate learning-based vulnerability detection under realistic and reproducible conditions, we benchmark a carefully curated set of representative deep learning models proposed between 2019 and 2024. Guided by the taxonomy illustrated in "Taxonomy_Final.png", the following section presents the selected baselines along with a sample video demonstrating their execution.
+
+1. **VULHUNTER** : To run this baseline and replicate results use the link : (https://drive.google.com/file/d/1415FFUASsI7mDIAUytIlLLHGH4KLthJP/view)
+2. **AMEVuldetector** : To run this baseline and replicate results use the link : (https://youtu.be/ZxTVXA39YXA)
+3. **CrossModality** : To run this baseline and replicate results use the link : (https://www.loom.com/share/0fab2244a13549db97776d3163637e36?sid=6cc011b3-704c-4002-8595-bb5e8ccbf535)
+4. **CLEAR** : To run this baseline and replicate results use the link : (https://drive.google.com/drive/folders/16VnSajm6nmPIUQWqowAQ0-x04lEYSM9-?usp=sharing)
+5. **MTL_EFEVD** : To run this baseline and replicate results use the link : (https://drive.google.com/file/d/1Dh5aTfbKU_w2HHQPVNGaW8RT8mFfySil/view)
+6. **MEVD** : To run this baseline and replicate results use the link : (https://drive.google.com/file/d/1E3XiwwPGIGfTlMkQZw3GMxo8jTMU50dJ/view)
 
 Will do the remaining part if any upon acceptance of the paper. 
