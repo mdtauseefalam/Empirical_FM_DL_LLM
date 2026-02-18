@@ -3,10 +3,11 @@ We empirically compare formal methods, deep learning, and LLMs on public benchma
 
 
 Will add steps for Data Annotations.
-Whole Dataset.
-Methodological video.
-Add Taxonomy figure.
+
+
 ### Taxonomy figure can be found with the name "Taxonomy_Final.png"
+
+### The baseline results obtained for different datasets are shared in the folder "DL_Baseline_Outputs"
 
 ## DATASETS
 
