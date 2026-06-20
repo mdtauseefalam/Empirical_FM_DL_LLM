@@ -11,7 +11,7 @@ We empirically compare formal methods, deep learning, and LLMs on public benchma
 
 ### The "Prompts" folder contains different prompts used for inferencing results from LLMs. 
 
-### The implementation of the Sequential Deep Learning models and Graph Neural Network (GNN) models in Python is provided in the GraphAndTraditionalModelCode.ipynb notebook file.
+### The implementation of the Sequential Deep Learning models and Graph Neural Network (GNN) models in Python is provided in the "GraphAndTraditionalModelCode.ipynb" notebook file.
 
 
 ## DATASETS
